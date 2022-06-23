@@ -1,2 +1,2 @@
 # Simple-name-page
-Zuri task to print name, age, height.
+Zuri simple Javascript task to print name, age, height.
